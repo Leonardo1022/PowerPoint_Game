@@ -5,6 +5,7 @@
 # Como jogar
 
 - Instale o arquivo .pptx e execute ele no Power Point (É de extrema importância que seja no App e não na versão web)
+    - [Link para o arquivo](https://github.com/Leonardo1022/PowerPoint_Game/blob/main/jogoEmPP.pptx)
 - Para jogar selecione a opção de apresentar slide e siga as instruções pelo próprio slide
 
 # Processo de criação
